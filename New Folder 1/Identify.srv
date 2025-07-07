@@ -1,0 +1,17 @@
+# 无人机标识 1
+string status
+# 无人机识别码
+string uav_id
+# 服务流程编码
+uint8 service_step_id
+# 服务附件
+string uav_attachment
+---
+# 地面站标识 0
+string status
+# 地面站识别码
+string gc_id
+# 服务流程编码
+uint8 service_step_id
+# 服务附件
+string gc_attachment

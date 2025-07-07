@@ -1,0 +1,11 @@
+#输入明文数据
+string node
+bool upkey
+bool updis
+string sm4key
+string plaintext
+string destnation
+---
+#输出密文数据
+bool success
+string ciphertext
